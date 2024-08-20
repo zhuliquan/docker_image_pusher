@@ -1,6 +1,7 @@
-centos:centos8
-centos:centos7
+openeuler/openeuler:24.03-lts
 # already upload
+# centos:centos8
+# centos:centos7
 # ubuntu:22.04
 # zookeeper:latest
 # zookeeper:3.9.2
