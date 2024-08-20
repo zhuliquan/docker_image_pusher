@@ -1,3 +1,5 @@
+centos:centos8
+centos:centos7
 # already upload
 # ubuntu:22.04
 # zookeeper:latest
@@ -19,8 +21,8 @@
 # postgres:12.19
 # redis:latest
 # redis:7.4.0
-redis:6.2
-redis:5.0
+# redis:6.2
+# redis:5.0
 # eclipse-mosquitto:latest
 # eclipse-mosquitto:2.0.18
 # elasticsearch:5.6.16
