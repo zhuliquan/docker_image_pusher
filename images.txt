@@ -1,5 +1,9 @@
-openeuler/openeuler:24.03-lts
+
+k8s.gcr.io/k8s-minikube/storage-provisioner:v5
+k8s.gcr.io/k8s-minikube/kicbase
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # already upload
+# openeuler/openeuler:24.03-lts
 # centos:centos8
 # centos:centos7
 # ubuntu:22.04
